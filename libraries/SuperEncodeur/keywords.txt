@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SuperEncoder	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin KEYWORD2
+end KEYWORD2
+configure KEYWORD2
+enabled KEYWORD2
+attachCallback KEYWORD2
+buttonPressed KEYWORD2
+upClick KEYWORD2
+downClick KEYWORD2
+getState KEYWORD2
+getValue KEYWORD2
+setValue KEYWORD2
+getAndSet KEYWORD2
+GetDirectionName KEYWORD2
+newSettings KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
